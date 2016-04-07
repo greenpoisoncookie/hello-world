@@ -2,4 +2,4 @@
 Baby's first repository
 
 
-You all know what a hello world is, silly.
+You know what a hello world is, silly.
